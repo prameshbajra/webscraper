@@ -1,0 +1,14 @@
+{
+    "name": "web-scraper",
+    "version": "1.0.0",
+    "description": "Web Scraper",
+    "main": "server.js",
+    "author": "Pramesh Bajracharya",
+    "dependencies": {
+        "async": "^2.5.0",
+        "cheerio": "^1.0.0-rc.2",
+        "express": "^4.15.4",
+        "lodash": "^4.17.4",
+        "request": "^2.81.0"
+    }
+}
